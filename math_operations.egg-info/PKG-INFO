@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: math-operations
+Version: 0.0.1
+Summary: A simple Python library for basic math operations
+Home-page: https://github.com/poovarasijeevabalan/math-operations
+Author: POOVARASI N
+Author-email: poovarasi5405@gmail.com
+License: MIT
+Keywords: calculator
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+This is a simple calculator that will perform addition, subtraction, multiplication, division, floor divsion and modules 
+
+
+
+ classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+    ],
+
+    
+
+change log 
+
+==========
+
+0.0.1 (10/04/2024)
+
+-------------------
+
+- First Release

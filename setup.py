@@ -16,7 +16,7 @@ setup(
     long_description=open('README.txt').read() + "\n\n" + open("change_log.txt").read(),
     author='POOVARASI N',
     author_email='poovarasi5405@gmail.com',
-    url='https://github.com/yourusername/math_operations',
+    url='https://github.com/poovarasijeevabalan/math-operations',
     license="MIT",
     classifiers=classifiers,
     keywords='calculator',

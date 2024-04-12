@@ -1,0 +1,10 @@
+LICENCE.txt
+MANIFEST.in
+README.txt
+change_log.txt
+math_operations.py
+setup.py
+math_operations.egg-info/PKG-INFO
+math_operations.egg-info/SOURCES.txt
+math_operations.egg-info/dependency_links.txt
+math_operations.egg-info/top_level.txt
